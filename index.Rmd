@@ -1,0 +1,29 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+    toc_depth: 3
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mapy v 21. století 
+RVVZ Chaloupky 2025 \
+Autor: Matěj Man \
+Aktualizace: 01. 04. 2025 \
+Odkaz na R skript: [Kopírovat a vložit do R](index_script.R)  
+Odkaz na data: [Stáhnout data zip](https://github.com/manmatej/gisproba/raw/main/data.zip)
+Odkaz na github repozirář: [Repozitář](https://github.com/manmatej/gisproba)
+
+#### Další zdroje: 
+* Online kniha [Geocomputation with R](https://geocompr.robinlovelace.net/)
+* Online kniha [Spatial Data Science with R](https://rspatial.org/raster/index.html)
+* Velice pěkný návod pro [R knihovnu sf](https://r-spatial.github.io/sf/index.html)
+* The Visual Raster Cheat Sheet [Rpubs dokument](http://www.rpubs.com/etiennebr/visualraster)
+* Dokumentace balíčku [terra](https://rspatial.org/terra/)
+
+### Knihovny
