@@ -15,15 +15,66 @@ knitr::opts_chunk$set(echo = TRUE)
 RVVZ Chaloupky 2025 \
 Autor: Matěj Man \
 Aktualizace: 01. 04. 2025 \
-Odkaz na R skript: [Kopírovat a vložit do R](index_script.R)  
-Odkaz na data: [Stáhnout data zip](https://github.com/manmatej/gisproba/raw/main/data.zip)
-Odkaz na github repozirář: [Repozitář](https://github.com/manmatej/gisproba)
 
-#### Další zdroje: 
-* Online kniha [Geocomputation with R](https://geocompr.robinlovelace.net/)
-* Online kniha [Spatial Data Science with R](https://rspatial.org/raster/index.html)
-* Velice pěkný návod pro [R knihovnu sf](https://r-spatial.github.io/sf/index.html)
-* The Visual Raster Cheat Sheet [Rpubs dokument](http://www.rpubs.com/etiennebr/visualraster)
-* Dokumentace balíčku [terra](https://rspatial.org/terra/)
+Papírovým mapám povětšinou již odzvonilo. V běžném životě ustoupily těm elektronickým.
+Papírové tak plní speciální funkce, které mnohdy při práci s dětským 
+kolektivem oceníme. 
 
-### Knihovny
+**Elektronické mapy** 
+
+* navigace v terénu
+* plánování, měření, sdílení
+* záznam trasy, bodů zájmu
+
+**Papírové mapy**  
+
+* navigace s prvkem dobrodružství
+* výuka mapových značek, poledníky + rovnoběžky, souřadnice
+* severování mapy, práce s buzolou, azimut, měřítko, vzdálenost
+* mapy k pokladu
+* mapy jako herní plány 
+* orientační běh
+
+
+## Mapy online
+
+### ČUZK
+Český úřad zeměměřický a katastrální
+
+* [Analýzy výškopisu](https://ags.cuzk.cz/geoprohlizec/) \
+<a href="dmr5g.PNG" target="_blank">
+  <img src="dmr5g.PNG" width="500" style="margin-left:20px;" alt="dmr5g" />
+</a>
+    * Produkty -> ZABAGED výškopis DMR 5g = digitální model reliéfu 5. generace \
+    Dobrý pomocník pro hledání terénních zajímavostí - vidí i do lesa \
+    Po kliknutí na ... v seznamu vrstev vpravo prozkoumat: \
+    Režim prolnutí - násobit \
+    Rastrové funkce - GrayscaleHillshadeZ10 (10x znásobené převýšení) \
+    * Produkty -> Archivní ortofoto  (1998 - 2022) 
+    \
+    
+* [Archivní mapy](https://ags.cuzk.gov.cz/archiv/) \
+<a href="chaloupky1949.PNG" target="_blank">
+  <img src="chaloupky1949.PNG" width="500" style="margin-left:20px;" alt="chaloupky 1949" />
+</a>
+    * Archivní mapy - Müllerova mapa Čech a Moravy, Císařské otisky
+    * Letecké měřické snímky (1936 - 2024) \
+    vlevo nahoře - vyhledat archiválie zadáním místa v mapě \
+    Klik do mapy - vlevo se zobrazí jednotlivé snímky \
+    Po kliknutí na snímek - přiblížit na místo zájmu \
+    Území ČR je pokryté nespojitě \
+
+### ČGS
+Česká geologická služba
+
+* [významné geologické lokality](https://mapy.geology.cz/geologicke_lokality/) \
+* [Důlní díla a poddolování](https://mapy.geology.cz/dulni_dila_poddolovani/) \
+<a href="dul.PNG" target="_blank">
+  <img src="dul.PNG" width="500" style="margin-left:20px;" alt="dul" />
+</a>
+* [Vrtná prozkoumanost](https://mapy.geology.cz/vrtna_prozkoumanost/) \
+<a href="vrt.PNG" target="_blank">
+  <img src="vrt.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+
+
