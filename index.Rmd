@@ -116,3 +116,52 @@ Každý může do mapy přispět, upravit, opravit a použít dle svého uváže
 * [Schearzplan - business založený na OSM](https://schwarzplan.eu/en/siteplan-and-figure-ground-plan-prague/)
 * [Naše místa - business založený na OSM](https://www.nasemista.cz/#gallery)
 
+## QGIS
+https://qgis.org/ \
+GIS = geografický informační systém (software) \
+QGIS = konkrétní software - freeware (zdarma) \
+
+* Software pro prohlížení a tvorbu map, sběr a úpravu mapových dat, přípravu map 
+k tisku, mapové analýzy, prostorové a geografické výpočty.
+* Nejpoužívanější na světě (společně s komerčním ESRI)
+* Modulární - možnost připojit další SW (statistický, skriptovací...)
+* Existuje řada zásuvných modulů (pluginů)
+* obrovská uživatelská základna (podpora, návody, kurzy, videa)
+    * CZ [GIS Mentors](https://gismentors.cz/)
+    * CZ [GIS pro Biologické Aplikace](https://labgis.ibot.cas.cz/teaching/)
+    * EN [How to install - video](https://youtu.be/lRWHo_3kWEY?si=LlsseRh_Mq-ZPtIv)
+    * EN [QGIS Tutorials](https://www.qgistutorials.com/en/index.html)
+
+### Zdroje dat pro GIS
+* Stahování OSM [Geofabrik](https://download.geofabrik.de/)
+* Stahování OSM přímo v QGIS plugin [quickOSM](https://plugins.qgis.org/plugins/QuickOSM/)
+* Globální data [Natural Earth](https://www.naturalearthdata.com/)
+* CZ základní mapa 1:50 000 [Data 50](https://ags.cuzk.gov.cz/geoprohlizec/?atom=data50)
+* [kartografická vizualizace ČUZK QGIS](https://geoportal.cuzk.gov.cz/Dokumenty/data200_qgis.zip) 
+  * kopírování symbologie přetáhování prvků (drag & drop) z jednoho okna QGOS do druhého
+  * WMS vrstvy - podkladové mapy
+  * symbology - rendering - multiply
+  
+## Mapové aplikace chytrý telefon
+
+#### mapy.cz
+- Moje mapy - Import/Export - GPX formát
+- Přetáhnout (drag & drop) GPX formát do prohlížeče s mapy.cz
+
+#### OsmAnd
+- placená (ca 250 Kč/rok)
+- kombinace OSM + Wikipedia
+- oflline mapy, skvělá pro cestování
+- skvělé vyhledávání POI (body zájmu)
+
+#### Custom Maps
+- pouze Android
+- referencování fotky podle google maps
+- vyfotím plánek zoo, srovnám fotku podle google mapy a vidím na plánku svou polohu
+
+### Nestforms
+- sběr georeferencovaných dat 
+- lokalizované fotky, výskyty, dotazníky
+
+
+
