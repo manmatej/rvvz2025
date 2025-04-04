@@ -67,7 +67,7 @@ kolektivem oceníme.
 ### ČGS
 Česká geologická služba
 
-* [významné geologické lokality](https://mapy.geology.cz/geologicke_lokality/) \
+* [Významné geologické lokality](https://mapy.geology.cz/geologicke_lokality/) \
 * [Důlní díla a poddolování](https://mapy.geology.cz/dulni_dila_poddolovani/) \
 <a href="dul.PNG" target="_blank">
   <img src="dul.PNG" width="500" style="margin-left:20px;" alt="dul" />
@@ -77,4 +77,42 @@ kolektivem oceníme.
   <img src="vrt.PNG" width="500" style="margin-left:20px;" alt="vrt" />
 </a>
 
+### LČR
+Lesy České republiky \
+
+* [Lesní hospodářský plán](https://geoportal.lesycr.cz/itc/?serverconf=default&wmcid=882) \
+  Dobrý zdroj informací o lesních cestách, které v jiných mapách nenajdete \
+  <a href="lhp.PNG" target="_blank">
+  <img src="lhp.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+
+### Ostatní drobnosti
+* [Mapa výskytu ovocných/jedlých rostlin](https://map.na-ovoce.cz/) \
+  <a href="naovoce.PNG" target="_blank">
+  <img src="naovoce.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+* [Mapa mineralogických a paleontologických lokalit](https://www.google.com/maps/d/u/0/viewer?mid=19VEgGckc-v8z9p1lSRqzYWokY9k&ll=48.79436439339029%2C19.974958274969293&z=6) \
+  <a href="mineral.PNG" target="_blank">
+  <img src="mineral.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+* [Mapy Tolkienovských světů](https://github.com/kwoxer/Arda-Maps/tree/master) \
+<a href="tolkien.PNG" target="_blank">
+  <img src="tolkien.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+
+## Open Street Map
+OSM \
+<a href="osm.PNG" target="_blank">
+  <img src="osm.PNG" width="500" style="margin-left:20px;" alt="vrt" />
+</a>
+https://www.openstreetmap.org/ \   
+Mapa vytvářená komunitou - trochu jako Wikipedia akorát mapa. 
+Každý může do mapy přispět, upravit, opravit a použít dle svého uvážení \ 
+
+##### Příklady použití 
+
+* [Seznam příkladů renderování OSM](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services)
+* [Stamen maps](https://maps.stamen.com/)
+* [Schearzplan - business založený na OSM](https://schwarzplan.eu/en/siteplan-and-figure-ground-plan-prague/)
+* [Naše místa - business založený na OSM](https://www.nasemista.cz/#gallery)
 
