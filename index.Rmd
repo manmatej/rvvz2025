@@ -105,9 +105,10 @@ OSM \
 <a href="osm.PNG" target="_blank">
   <img src="osm.PNG" width="500" style="margin-left:20px;" alt="vrt" />
 </a>
-https://www.openstreetmap.org/ \   
+
+https://www.openstreetmap.org/  
 Mapa vytvářená komunitou - trochu jako Wikipedia akorát mapa. 
-Každý může do mapy přispět, upravit, opravit a použít dle svého uvážení \ 
+Každý může do mapy přispět, upravit, opravit a použít dle svého uvážení \   
 
 ##### Příklady použití 
 
